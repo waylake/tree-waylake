@@ -32,13 +32,13 @@ SakuraLinkTree is a beautiful cherry blossom-themed personal link tree web appli
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/SakuraLinkTree.git
+   git clone https://github.com/waylake/tree-waylake.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd SakuraLinkTree
+   cd tree-waylake
    ```
 
 3. Install dependencies:
